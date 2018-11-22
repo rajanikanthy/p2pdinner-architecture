@@ -24,3 +24,4 @@ The application is built to support multi-cloud deployments. This application ut
 - Circuit Breaker (Hystrix)
 - Messaging (Rabbit MQ, Pub/Sub)
 - Security (Okta)
+- UI (Angular 4)
